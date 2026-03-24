@@ -15,6 +15,8 @@ IBM Auto-HackfesT | March 2026
 HELIX is a zero-touch automation pipeline that connects five IBM tools into one closed-loop system. When a server has a problem, HELIX detects it, raises a ticket, checks whether it is allowed to act, scales the resource, generates the code to make the change permanent, and closes every ticket. All of this happens without a single human doing anything.
 
 This document is a step-by-step guide to build this system from scratch. You do not need to be an expert. If you follow each section in order, you will have a working environment at the end.
+This document provides A conceptual implementation blueprint designed for real world environments it outlines how existing IBM tools can be integrated into a closed loop automation system.
+
 
 ---
 
