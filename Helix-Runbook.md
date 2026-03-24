@@ -64,7 +64,7 @@ Collect all of these before starting. You will be pasting them into config files
 - IBM Cloud IAM API Key - generate this from cloud.ibm.com under Manage > Access > API Keys
 - Watsonx Project ID - found inside your watsonx.ai project settings
 - Watson Machine Learning service instance provisioned and linked to your project
-- ServiceNow instance URL (looks like https://yourcompany.service-now.com)
+- ServiceNow instance URL (looks like https://mycompany.service-now.com)
 - ServiceNow integration user with evt_mgmt_integration and itil roles
 - ServiceNow OAuth Client ID and Client Secret - from System OAuth > Application Registry
 
